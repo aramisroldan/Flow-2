@@ -52,7 +52,7 @@ return msg;
 ## Resultados
 En la siguente imagen se puede observar una vista del funcionamiento de este flow:
 
-![Funcionamiento del programa](https://github.com/aramisroldan/Flow-1/blob/main/Flow_1.png)
+![Funcionamiento del programa](https://github.com/aramisroldan/Flow-2/blob/main/Flow2.png)
 
 ## Evidencias 
 
